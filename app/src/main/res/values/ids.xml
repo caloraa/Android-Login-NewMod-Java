@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="cardView_h" />
+	<item type="id" name="username" />
+	<item type="id" name="password" />
+	<item type="id" name="checkSave" />
+	<item type="id" name="checkSPass" />
+	<item type="id" name="login" />
+	<item type="id" name="imageView_h" />
+	<item type="id" name="textView3" />
+</resources>
+
